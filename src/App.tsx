@@ -11,7 +11,9 @@ function App() {
       <section className={styles.textContainer}>
         <div className={styles.logoContainer}>
           <img src={ohLogo} alt="Logo de Oh" />
-          <h1>Site en construction</h1>
+          <div className={styles.titleContainer}>
+            <h1>Site en construction</h1>
+          </div>
         </div>
 
         <address className={styles.address}>

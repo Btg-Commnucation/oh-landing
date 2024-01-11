@@ -29,6 +29,8 @@
   font-size: var(--text-responsive-size);
   line-height: 1.1;
   font-weight: 500;
+  max-width: 85%;
+  margin-inline: auto;
 }
 
 .address strong {
@@ -139,6 +141,7 @@ h1 {
     text-align: left;
     font-size: var(--text-responsive-size);
     margin-left: 54px;
+    max-width: 100%;
   }
 
   .address strong {

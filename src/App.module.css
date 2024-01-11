@@ -25,6 +25,7 @@
   align-items: center;
   text-align: center;
   font-size: var(--text-responsive-size);
+  line-height: 1.1;
 }
 
 .address strong {

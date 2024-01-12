@@ -176,10 +176,12 @@ h1 {
 
   .photographie {
     background: url("./assets/photographie.jpg") no-repeat center;
+    background-size: cover;
   }
 
   .identite {
     background: url("./assets/identite.jpg") no-repeat center;
+    background-size: cover;
   }
 
   .titleContainer {

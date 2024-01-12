@@ -17,12 +17,11 @@ function App() {
         </div>
 
         <address className={styles.address}>
-          <strong>Pour me contacter :</strong>
           <p>ODILE HIOLIN</p>
           <a href="mailto:odilehiolin.oh@gmail.com">odilehiolin.oh@gmail.com</a>
           <a href="tel:+33674931282">Tél / +33 6 74 93 12 82</a>
-          <p>Paris / 55bd Marguerite de Rochechouart - 75018 Paris</p>
-          <p>Bretagne / 8 rue Pratmer - 56610 Arradon</p>
+          <p>55 bd Marguerite de Rochechouart - 75018 Paris</p>
+          <p>8 rue Pratmer - 56610 Arradon</p>
         </address>
       </section>
       <section className={styles.imageContainer}>

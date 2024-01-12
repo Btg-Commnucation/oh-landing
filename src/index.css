@@ -172,11 +172,11 @@ ul {
 
 html {
   --color-blue: #183680;
-  --title-size: 48px;
+  --title-size: 38px;
   --title-responsive-size: 24px;
-  --strong-size: 35px;
+  --strong-size: 30px;
   --strong-responsive-size: 18px;
-  --text-size: 25px;
+  --text-size: 22px;
   --text-responsive-size: 14px;
   --link-responsive-size: 17px;
 }

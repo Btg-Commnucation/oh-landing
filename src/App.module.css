@@ -76,7 +76,6 @@ h1 {
 .photographie p,
 .identite p {
   font-size: var(--link-responsive-size);
-  text-decoration: underline;
   font-weight: 900;
   text-align: center;
 
@@ -184,7 +183,7 @@ h1 {
   }
 
   .titleContainer {
-    height: 228.8px;
+    height: 200px;
   }
 
   .textContainer {
@@ -224,7 +223,7 @@ h1 {
   }
 
   .titleContainer {
-    height: 318.53px;
+    height: 280px;
   }
 
   .address {
@@ -234,7 +233,7 @@ h1 {
 
 @media (min-width: 1600px) {
   .titleContainer {
-    height: 379.78px;
+    height: 300px;
   }
 
   .logoContainer img {
